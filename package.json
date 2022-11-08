@@ -1,0 +1,30 @@
+{
+  "name": "ddos_bot_discord_by_oldmodz95",
+  "version": "1.0.0",
+  "description": "Simple Bot Discord DDOS",
+  "main": "ddosbot.js",
+  "scripts": {
+    "test": "node ddosbot.js"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "ddos",
+    "ssh",
+    "server",
+    "protondev",
+    "oldmodz95",
+    "cracked"
+  ],
+  "author": "OldModz95",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^12.5.1",
+    "hastebin-gen": "^2.0.5",
+    "request": "^2.88.2",
+    "simple-ssh": "^1.1.0",
+    "superagent": "^8.0.3",
+    "weather-js": "^2.0.0"
+  }
+}
