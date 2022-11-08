@@ -34,12 +34,14 @@ OldModz95
 ## Installation
 <br>
 
-> Aller dans le fichier de config
-> Ajouter votre Token
-> Changer le prefix si vous le voulez
-> Modifier les commandes si besoin
-> Certaine commandes doivent être mise à jour
+> Aller dans le fichier de config<br>
+> Ajouter votre Token<br>
+> Changer le prefix si vous le voulez<br>
+> Modifier les commandes si besoin<br>
+> Certaine commandes doivent être mise à jour<br>
 > Lancer le bot avec la commande `node` suivis du nom du fichier ainsi que `.js` à la fin.
+<br><br>
+> Si vous avez besoin de certain nom de commande, aller dans le fichier .js principal.
 
 
 <br>
